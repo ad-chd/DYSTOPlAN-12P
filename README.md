@@ -1,4 +1,5 @@
 # DYSTOPIAN-I2P
+VISUALIZATION.PDF 🔗 https://drive.google.com/file/d/1mbpAGPeaLW_jACJXHYsSKTphJdag6_2g/view?usp=sharing
 # Stable Diffusion - Image to Prompt || VLG IITR
 
 ![stable-diffusion-feature](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/626307f4-8955-4331-b495-1cdf22661652)
