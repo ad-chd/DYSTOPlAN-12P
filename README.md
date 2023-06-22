@@ -46,7 +46,7 @@ The distinct advantage of CoCa lies in its ability to achieve state-of-the-art r
 Furthermore, CoCa exhibits an exceptional capability to learn highly generic representations, enabling it to perform on par with, or even outperform, fully fine-tuned models in scenarios involving zero-shot learning or frozen encoders. This versatility further reinforces the value and applicability of CoCa in various practical settings.
 
 Another notable strength of the CoCa model is its adaptability and ease of fine-tuning on different tasks with minimal adjustments. Leveraging this capability, the model consistently achieves state-of-the-art results on popular vision and multimodal benchmarks, solidifying its position as a reliable and high-performing solution in the field. 
-![imageedit_2_9888730071](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/8a4c9986-c874-4ebd-95af-da6cedc374af)
+
 
 
 
