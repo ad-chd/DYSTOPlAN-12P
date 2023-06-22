@@ -1,0 +1,8 @@
+image_path,original_prompt,predicted_prompt,cos_sim_score
+../input/stable-diffusion-image-to-prompts/images/20057f34d.png,hyper realistic photo of very friendly and dystopian crater,an aerial view of a hole in the ground,0.39330798
+../input/stable-diffusion-image-to-prompts/images/227ef0887.png,"ramen carved out of fractal rose ebony, in the style of hudson river school",a round wooden dish with a spiral design,0.2033878
+../input/stable-diffusion-image-to-prompts/images/92e911621.png,"ultrasaurus holding a black bean taco in the woods, near an identical cheneosaurus",an illustration of a dinosaur holding a piece of cheese,0.47551793
+../input/stable-diffusion-image-to-prompts/images/a4e1c55a9.png,a thundering retro robot crane inks on parchment with a droopy french bulldog,a drawing of a robot holding a remote control,0.45152587
+../input/stable-diffusion-image-to-prompts/images/c98f79f71.png,"portrait painting of a shimmering greek hero, next to a loud frill-necked lizard",a painting of a man with a bird on his head,0.50021374
+../input/stable-diffusion-image-to-prompts/images/d8edf2e40.png,"an astronaut standing on a engaging white rose, in the midst of by ivory cherry blossoms",a person in a spacesuit is walking down the street,0.21892388
+../input/stable-diffusion-image-to-prompts/images/f27825b2c.png,"Kaggle employee Phil at a donut shop ordering all the best donuts, with a speech bubble that proclaims ""Donuts. It's what's for dinner!""",a man standing in front of a donut shop,0.50507104

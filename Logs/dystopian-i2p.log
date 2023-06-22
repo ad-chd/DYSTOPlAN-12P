@@ -1,0 +1,32 @@
+29.2s 1 [33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
+57.1s 2 [0m[33mWARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager. It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv[0m[33m
+66.3s 3 /opt/conda/lib/python3.10/site-packages/tensorflow_io/python/ops/__init__.py:98: UserWarning: unable to load libtensorflow_io_plugins.so: unable to open file: libtensorflow_io_plugins.so, from paths: ['/opt/conda/lib/python3.10/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so']
+66.3s 4 caused by: ['/opt/conda/lib/python3.10/site-packages/tensorflow_io/python/ops/libtensorflow_io_plugins.so: undefined symbol: _ZN3tsl6StatusC1EN10tensorflow5error4CodeESt17basic_string_viewIcSt11char_traitsIcEENS_14SourceLocationE']
+66.3s 5 warnings.warn(f"unable to load libtensorflow_io_plugins.so: {e}")
+66.3s 6 /opt/conda/lib/python3.10/site-packages/tensorflow_io/python/ops/__init__.py:104: UserWarning: file system plugins are not loaded: unable to open file: libtensorflow_io.so, from paths: ['/opt/conda/lib/python3.10/site-packages/tensorflow_io/python/ops/libtensorflow_io.so']
+66.3s 7 caused by: ['/opt/conda/lib/python3.10/site-packages/tensorflow_io/python/ops/libtensorflow_io.so: undefined symbol: _ZTVN10tensorflow13GcsFileSystemE']
+66.3s 8 warnings.warn(f"file system plugins are not loaded: {e}")
+99.3s 9 [0mcuda
+110.6s 10 [0.39330798 0.2033878  0.47551793 0.45152587 0.50021374 0.21892388
+110.6s 11 0.50507104]
+143.0s 12 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+143.0s 13 warn(
+143.0s 14 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+143.0s 15 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+143.9s 16 [NbConvertApp] Writing 17405061 bytes to __notebook__.ipynb
+145.6s 17 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+145.6s 18 warn(
+145.6s 19 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+145.7s 20 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+147.0s 21 [NbConvertApp] Support files will be in __results___files/
+147.0s 22 [NbConvertApp] Making directory __results___files
+147.0s 23 [NbConvertApp] Making directory __results___files
+147.0s 24 [NbConvertApp] Making directory __results___files
+147.0s 25 [NbConvertApp] Making directory __results___files
+147.0s 26 [NbConvertApp] Making directory __results___files
+147.0s 27 [NbConvertApp] Making directory __results___files
+147.0s 28 [NbConvertApp] Making directory __results___files
+147.0s 29 [NbConvertApp] Making directory __results___files
+147.0s 30 [NbConvertApp] Making directory __results___files
+147.0s 31 [NbConvertApp] Making directory __results___files
+147.0s 32 [NbConvertApp] Writing 650436 bytes to __results__.html
