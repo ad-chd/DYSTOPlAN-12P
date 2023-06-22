@@ -57,11 +57,13 @@ Another notable strength of the CoCa model is its adaptability and ease of fine-
 
 **Comparative Analysis: Contrasting Contrastive Captioners (CoCa) with Single-Encoder, Dual-Encoder, and Encoder-Decoder Models**
 
-![imageedit_3_3115743933](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/d9d5de78-def1-4501-b59f-66f421d90615)
-
+![imageedit_1_4756651088](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/086fc724-88e2-48f7-a814-2300623ec04a)
 
 
 **Comprehensive Comparison: Contrasting CoCa with Image-Text Backbone Models (without Task-Specific Customization) and State-of-the-Art Task-Specialized Models**
+
+![imageedit_3_3115743933](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/d9d5de78-def1-4501-b59f-66f421d90615)
+
 
 # Setup
 **Install & Import all Dependencies**
