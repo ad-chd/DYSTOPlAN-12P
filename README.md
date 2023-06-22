@@ -30,8 +30,12 @@ Quantitative Analysis: Comparative Examination Reveals Elevated Coefficient of V
  
 # Incentive & Motive
 Optimizing Text Extraction from Images: Leveraging CoСa OpenClip Model with Stable Diffusion 2.0-v and the Inclusion of Sentence-Transformers-2.2.2 Dataset
-In order to achieve accurate and reliable text extraction from images, it is imperative to employ an effective approach. One such approach involves utilizing the CoСa OpenClip model, which has demonstrated promising results in this domain. However, to ensure optimal performance and generate embeddings for predicted prompts, it is vital to incorporate the sentence-transformers-2.2.2 dataset.
-In this particular scenario, a notable progress can be observed through the implementation of the latest stable diffusion model, known as Stable Diffusion 2.0-v, which operates at a resolution of 768x768. This advanced model maintains a comparable parameter count in the U-Net architecture when compared to its predecessor (1.5). However, it incorporates the application of OpenCLIP-ViT/H as the text encoder and undergoes a comprehensive training process from scratch. Notably, Stable Diffusion 2.0-v is characterized as a v-prediction model, highlighting its remarkable capability to significantly enhance subsequent text extraction models employed for processing images.
+In order to achieve accurate and reliable text extraction from images, it is imperative to employ an effective approach. One such approach involves utilizing the CoСa OpenClip model, which has demonstrated promising results in this domain.
+
+However, to ensure optimal performance and generate embeddings for predicted prompts, it is vital to incorporate the sentence-transformers-2.2.2 dataset.
+In this particular scenario, a notable progress can be observed through the implementation of the latest stable diffusion model, known as Stable Diffusion 2.0-v, which operates at a resolution of 768x768. This advanced model maintains a comparable parameter count in the U-Net architecture when compared to its predecessor (1.5). However, it incorporates the application of OpenCLIP-ViT/H as the text encoder and undergoes a comprehensive training process from scratch. 
+
+Notably, Stable Diffusion 2.0-v is characterized as a v-prediction model, highlighting its remarkable capability to significantly enhance subsequent text extraction models employed for processing images.
 By harnessing the knowledge gained through the utilization of Stable Diffusion 2.0-v and leveraging OpenCLIP-ViT/H as the text encoder, there is a substantial potential for substantial 
 improvements in the accuracy and effectiveness of extracting text from images.
 Henceforth
