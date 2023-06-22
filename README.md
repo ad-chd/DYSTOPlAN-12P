@@ -1,7 +1,8 @@
 # DYSTOPIAN-I2P
 # Stable Diffusion - Image to Prompt || VLG IITR
 
-![stable-diffusion-feature](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/5f73464c-0a26-4d76-bb46-207d7fad4f96)
+![stable-diffusion-feature](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/626307f4-8955-4331-b495-1cdf22661652)
+
 
 • Used a combination of deep learning and natural language processing techniques to generate prompts for images.
 
@@ -20,7 +21,8 @@ portraits.
 
 # Model Comparison: Coca, Blip, OFA, Blip2, and Ensemble (Blip+CoCa)
 
-![model dis](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/ce226c40-d9e2-45a1-bd12-4dc9bcefc5c0)
+![model dis](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/40c10573-ffeb-491a-851e-0e9a9c3e961b)
+
 
 
 Quantitative Analysis: Comparative Examination Reveals Elevated Coefficient of Variation (CV) in CLIP Interrogator and OFA Methods in Contrast to LB.
@@ -32,7 +34,9 @@ In this particular scenario, a notable progress can be observed through the impl
 By harnessing the knowledge gained through the utilization of Stable Diffusion 2.0-v and leveraging OpenCLIP-ViT/H as the text encoder, there is a substantial potential for substantial 
 improvements in the accuracy and effectiveness of extracting text from images.
 Henceforth
-![imageedit_2_9888730071](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/f1ab475a-729b-4788-8f86-d435bc5ad911)
+![imageedit_2_9888730071](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/1fd9c0a0-43e0-414d-88a8-e35a5f97b8fa)
+
+
 
 # Contrastive Captioner Model (CoCa)
 Contrastive Captioner (CoCa) is an ingenious encoder-decoder approach that introduces a groundbreaking methodology for generating aligned unimodal image and text embeddings, as well as joint multimodal representations. This unique framework exhibits exceptional flexibility, allowing for direct applicability across a wide range of downstream tasks.
@@ -42,12 +46,15 @@ The distinct advantage of CoCa lies in its ability to achieve state-of-the-art r
 Furthermore, CoCa exhibits an exceptional capability to learn highly generic representations, enabling it to perform on par with, or even outperform, fully fine-tuned models in scenarios involving zero-shot learning or frozen encoders. This versatility further reinforces the value and applicability of CoCa in various practical settings.
 
 Another notable strength of the CoCa model is its adaptability and ease of fine-tuning on different tasks with minimal adjustments. Leveraging this capability, the model consistently achieves state-of-the-art results on popular vision and multimodal benchmarks, solidifying its position as a reliable and high-performing solution in the field. 
-![imageedit_3_3115743933](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/96c83067-3106-4709-a847-dfe6cf5d4887)
+![imageedit_2_9888730071](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/8a4c9986-c874-4ebd-95af-da6cedc374af)
+
 
 
 **Comparative Analysis: Contrasting Contrastive Captioners (CoCa) with Single-Encoder, Dual-Encoder, and Encoder-Decoder Models**
 
-![image2](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/b55b7a91-02d6-4b0f-b4cb-b6ed3e1c916e)
+![imageedit_3_3115743933](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/d9d5de78-def1-4501-b59f-66f421d90615)
+
+
 
 **Comprehensive Comparison: Contrasting CoCa with Image-Text Backbone Models (without Task-Specific Customization) and State-of-the-Art Task-Specialized Models**
 
@@ -100,7 +107,8 @@ The **all-MiniLM-L6-v2 model** is a powerful, pre-trained transformer-based mode
 Prompt Embedding and Generated Prompt Visualization: Insightful Representation of Embedding Values and Generated Prompts
 The visualization process involves presenting the prompt embedding values and the corresponding generated prompts in a visually informative manner. By visualizing the prompt embedding values, we gain a deeper understanding of the underlying patterns and relationships within the embeddings. Additionally, the visualization showcases the generated prompts, providing a visual reference for evaluating their quality and relevance. This visual representation facilitates effective analysis and interpretation of the prompt embeddings and the generated prompts, enabling researchers and practitioners to make informed decisions and draw meaningful insights from the data.
 
-![DALL·E 2023-06-22 23 34 48 - Visualizing Prompt Embeddings and Generated Prompts_ Insightful Representation of Embedding Values and Generated Text](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/b92cee5e-e91c-46c2-8413-6164702fd875)
+![DALL·E 2023-06-22 23 35 30](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/c32f78bd-5384-4fe1-8d12-530d748ce951)
+
 
 
 
