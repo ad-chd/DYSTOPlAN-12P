@@ -98,6 +98,14 @@ The task at hand involves loading a pre-trained embedding model into the system.
 
 This step ensures that the system is equipped with the valuable knowledge and patterns captured by the pre-trained embedding model. By incorporating the model, the system can leverage its powerful embeddings to enhance data processing and analysis, facilitating more accurate and meaningful insights from the available data.
 
+# **Cosine Similarity**
+
+![imageedit_2_8744071510](https://github.com/ad-chd/DYSTOPlAN-12P/assets/72156890/9128e097-24de-4d1d-bb62-8041094cc859)
+
+Cosine similarity is a measure of similarity between two vectors, widely used in information retrieval, natural language processing, and machine learning applications. It determines the cosine of the angle between two vectors, representing them as multidimensional geometric entities.
+When working with text or numerical data, the vectors are typically constructed by representing each document or data point as a vector in a high-dimensional space. The elements of the vector represent the features or attributes of the document or data point.
+
+
 # **Evaluation & Submission**
 
 Evaluation and Submission: Assessing Model Performance and Finalizing Results for Submission
